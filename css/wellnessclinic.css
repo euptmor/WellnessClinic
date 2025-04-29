@@ -1,0 +1,66 @@
+@charset "utf-8";
+img {
+    width: 500px;
+    border-width: thick;
+    border-style: ridge;
+}
+#textarea {
+    text-align: left;
+}
+body label {
+    text-align: left;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+
+}
+body input {
+    font-size: 16px;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+footer {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+
+
+body  {
+    background-image: url(../images/13837132413_5209b049a8_o.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+body h1 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 62px;
+    text-align: center;
+    text-decoration: underline;
+}
+nav {
+    text-align: center;
+    color: #FFFFFF;
+    font-style: oblique;
+    font-size: 21px;
+    text-decoration: underline;
+    text-shadow: 1px 0px;
+    text-transform: capitalize;
+}
+body h3 {
+    font-size: 20px;
+    text-align: center;
+}
+body p {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: left;
+    border-bottom: 7px groove #FFFFFF;
+}
